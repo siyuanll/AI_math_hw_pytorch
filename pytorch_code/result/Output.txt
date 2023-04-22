@@ -1,0 +1,22 @@
+times: 0.3
+input_dim: 1
+output_dim: 1
+ActFuc: 1
+hidden_units: [200, 200, 200, 100]
+learning_rate: 0.00019997499156304533
+learning_rateDecay: 5e-08
+train_size: 101
+test_size: 100
+x_start: -5
+x_end: 5
+device: 6
+asi: 0
+tuning_points: []
+check_epoch: 10
+tuning_ind: []
+batch_size: 101
+astddev: 0.20402856445021594
+bstddev: 0.20402856445021594
+full_net: [1, 200, 200, 200, 100, 1]
+n_fixed: 0
+loss end: 0.004036442842334509
